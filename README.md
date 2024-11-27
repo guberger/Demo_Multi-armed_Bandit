@@ -1,0 +1,1 @@
+![GUI](https://github.com/guberger/Demo_Multi-armed_Bandit/blob/main/demo.png)

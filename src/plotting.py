@@ -25,7 +25,7 @@ class Window:
         self.nk_ax = self.fig.add_axes([0.2, 0.03, 0.79, 0.30])
         self.Rav_ax.set_ylabel('Average reward')
         self.Rkbar_ax.set_ylabel('Estimated expected reward per bandit')
-        self.nk_ax.set_ylabel('Number of visit per action')
+        self.nk_ax.set_ylabel('Number of visit per bandit')
         self.Rav_xlim = [0, 0]
         self.Rav_ylim = [0, 0]
         self.Rkbar_ylim = [0, 0]
